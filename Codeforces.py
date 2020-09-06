@@ -32,7 +32,9 @@
 
 
 # In[57]:
-
+ 
+    
+# New Question 
 
 def ok(n,x,y):
     if n==2:
